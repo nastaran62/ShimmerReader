@@ -1,3 +1,6 @@
+By running this code you can read Shimmer3 data. It is based on the examples in "https://github.com/ShimmerResearch/shimmer3/tree/master/LogAndStream/python_scripts"
+
+
 1- Pair bluetooth and serial port (Shimmer password: 1234)
 
 2- hcitool scan //It shows the macaddress of device. for shimmer it is 00:06:66:F0:95:95
